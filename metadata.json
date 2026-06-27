@@ -1,0 +1,6 @@
+{
+  "name": "Gaate One",
+  "description": "La première Super App africaine : portefeuille numérique, paiements instantanés, marketplace, services de transport, messagerie privée, et Gaate AI intégrée.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
